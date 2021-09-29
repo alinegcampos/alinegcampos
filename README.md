@@ -1,5 +1,5 @@
 ### Oi! Eu sou Aline! 💻
-![Aline GitHub stats](https://github-readme-stats.vercel.app/api?username=alinegcampos&show_icons=true&theme=cobalt)
+![Aline GitHub stats](https://github-readme-stats.vercel.app/api?username=alinegcampos&show_icons=true&theme=onedark)
 
 ## Tecnologias
 
